@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+#Welcome to my README
+
+I'm currently a CS major exploring the different niches of this deep deep rabbit hole called Computer Science.
+
 <!--
 **ManBeaRTo/ManBeaRTo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
