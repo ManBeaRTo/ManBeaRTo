@@ -1,8 +1,16 @@
 ## Hi there 👋
 
-#Welcome to my README
+# Welcome to my **README**
 
-I'm currently a CS major exploring the different niches of this deep deep rabbit hole called Computer Science.
+I'm currently a CS major exploring the different niches of this deep 'deep' rabbit hole called Computer Science.
+
+'''
+yes
+yes
+no
+'''
+
+Website used for learning cpp - ([learncpp.com])
 
 <!--
 **ManBeaRTo/ManBeaRTo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
